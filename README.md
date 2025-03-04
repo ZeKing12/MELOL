@@ -1,7 +1,7 @@
 # CoalMine-LowLight-PairedDataset 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-A specialized paired dataset for low-light enhancement in coal mining environments, containing **1,622 aligned image pairs** from diverse monitoring systems.
+A specialized paired dataset for low-light enhancement in coal mining environments, containing **2,620 aligned image pairs** from diverse monitoring systems.
 
 **📦 Download**：[百度网盘链接](https://pan.baidu.com/s/1FSsPeRPvrj6r2yXrd_Emhw?pwd=1234) 提取码：1234
 
