@@ -29,3 +29,19 @@ MELOL-Dataset.zip
 └── test/
     ├── high/        
     └── low/         
+## Citation
+
+If you find this work helpful, please consider citing our paper:
+
+```bibtex
+@article{sun2025meformer,
+  title = {MEFormer: Enhancing Low-Light Images While Preserving Image Authenticity in Mining Environments},
+  author = {Zhenming Sun and Zeqing Shen and Ning Chen and Shuoqi Pang and Hui Liu and Yimeng You and Haoyu Wang and Yiran Zhu},
+  journal = {Remote Sensing},
+  year = {2025},
+  volume = {},
+  number = {},
+  pages = {},
+  doi = {},
+  publisher = {MDPI}
+}
