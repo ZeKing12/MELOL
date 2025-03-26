@@ -34,14 +34,15 @@ MELOL-Dataset.zip
 If you find this work helpful, please consider citing our paper:
 
 ```bibtex
-@article{sun2025meformer,
-  title = {MEFormer: Enhancing Low-Light Images While Preserving Image Authenticity in Mining Environments},
-  author = {Zhenming Sun and Zeqing Shen and Ning Chen and Shuoqi Pang and Hui Liu and Yimeng You and Haoyu Wang and Yiran Zhu},
-  journal = {Remote Sensing},
-  year = {2025},
-  volume = {},
-  number = {},
-  pages = {},
-  doi = {},
-  publisher = {MDPI}
+@Article{rs17071165,
+AUTHOR = {Sun, Zhenming and Shen, Zeqing and Chen, Ning and Pang, Shuoqi and Liu, Hui and You, Yimeng and Wang, Haoyu and Zhu, Yiran},
+TITLE = {MEFormer: Enhancing Low-Light Images While Preserving Image Authenticity in Mining Environments},
+JOURNAL = {Remote Sensing},
+VOLUME = {17},
+YEAR = {2025},
+NUMBER = {7},
+ARTICLE-NUMBER = {1165},
+URL = {https://www.mdpi.com/2072-4292/17/7/1165},
+ISSN = {2072-4292},
+DOI = {10.3390/rs17071165}
 }
